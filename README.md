@@ -5,7 +5,7 @@
 I'm a Software Developer with experience in building and supporting web applications using **Java, Spring Boot, ReactJS, and Angular**.
 
 - 💻 Experienced in **Java, Spring Boot, REST APIs, ReactJS, and Angular**
-- 🔧 Interested in **Backend Development, Full-Stack Development, and Automation**
+- 🔧 Interested in **Backend Development, and Full-Stack Development**
 - 🚀 Currently building projects with **Spring Boot, ReactJS, and PostgreSQL**
 - 🌱 Continuously learning new technologies and improving my development skills
 - 🤝 Open to collaborating on interesting software projects
